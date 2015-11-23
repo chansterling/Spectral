@@ -1,5 +1,7 @@
 # Spectral Chaos 
 
+![Spectral Chaos](https://raw.githubusercontent.com/martsve/Spectral/youtube%20art/logo.png)
+
 "Magic's unreleased set! Mad props to Barry Reich, the genius behind it all!"
 
 https://www.reddit.com/r/magicTCG/comments/3twte0/magic_players_misprint_guy_here_again_with_the/
