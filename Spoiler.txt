@@ -84,81 +84,67 @@ Enchant Creature
 Enchanted creature get "Cummulative upkeep - Pay 1 life or {1}"
 
 #11
-CARDNAME
-MANACOST (CMC)
-TYPELINE
-RARITY
+Rapid Flight
+U (1)
+Enchantment - Aira
+Common
 http://SUGGESTED_ART
-TEXTBOX
-..TEXTBOX
-..TEXTBOX
-P/T
+Flash
+Enchanted creature has flying.
+Cast only Rapid Flight on your turn before the declare blockers phase.
 
 #12
-CARDNAME
-MANACOST (CMC)
-TYPELINE
-RARITY
+Sylvan Adder
+3U (4)
+Creature - Serpent
+Common
 http://SUGGESTED_ART
-TEXTBOX
-..TEXTBOX
-..TEXTBOX
-P/T
+Forest Home
+4/3
 
 #13
-CARDNAME
-MANACOST (CMC)
-TYPELINE
-RARITY
+Ravenous Shark
+2U (3)
+Creature - Shark
+Common
 http://SUGGESTED_ART
-TEXTBOX
-..TEXTBOX
-..TEXTBOX
-P/T
+If Ravenous Shark is blocking or blocked by a creature that has been damaged this turn it gets +3/+1 until end of turn.
+2/2
 
 #14
-CARDNAME
-MANACOST (CMC)
-TYPELINE
-RARITY
+Twiddlebug
+3U (4)
+Creature - Beetle
+Common
 http://SUGGESTED_ART
-TEXTBOX
-..TEXTBOX
-..TEXTBOX
-P/T
+{T}: Tap or untap target land or artifact
+0/2
 
 #15
-CARDNAME
-MANACOST (CMC)
-TYPELINE
-RARITY
+Power Sink
+XU (1)
+Instant
+Common
 http://SUGGESTED_ART
-TEXTBOX
-..TEXTBOX
-..TEXTBOX
-P/T
+Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool
 
 #16
-CARDNAME
-MANACOST (CMC)
-TYPELINE
-RARITY
+High Treason
+UR (2)
+Chaotic Instant
+Common
 http://SUGGESTED_ART
-TEXTBOX
-..TEXTBOX
-..TEXTBOX
-P/T
+Play High Treason only before the declare blockers step.
+Target attacking creature attacks its controller instead.
 
 #17
-CARDNAME
-MANACOST (CMC)
-TYPELINE
-RARITY
+Distracting Imp
+UUR (3)
+Chaotic Creature - Imp
+Common
 http://SUGGESTED_ART
-TEXTBOX
-..TEXTBOX
-..TEXTBOX
-P/T
+{U},{T}: Exile target creature. Return it to the battlefield at the beginning of your next upkeep.
+0/1
 
 #18
 CARDNAME
