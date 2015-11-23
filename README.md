@@ -1,6 +1,6 @@
 # Spectral Chaos 
 
-![Spectral Chaos](https://raw.githubusercontent.com/martsve/Spectral/youtube%20art/logo.png)
+![Spectral Chaos](https://raw.githubusercontent.com/martsve/Spectral/master/youtube%20art/logo.png)
 
 "Magic's unreleased set! Mad props to Barry Reich, the genius behind it all!"
 
